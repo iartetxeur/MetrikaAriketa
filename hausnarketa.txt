@@ -1,0 +1,7 @@
+Hausnarketa:
+
+Overfit (k = 1, 2): entrenamenduan ia perfektua (R² = 1 eta 0,945), baina proban oso baxua (0,375 eta 0,297). Datuak buruz ikasi ditu.
+Orekatua (k = 3, 5): entrenamendua eta proba hurbilago daude (≈0,87 vs 0,69–0,73). k = 5 da R² onena (0,725) eta k = 3 MAE txikiena (0,333 logela).
+Underfit: 1-6 tartean ez da argi ikusten. Entrenamenduko R² jaisten hasten da (0,85), baina proba ez da hondatzen; k handiagoekin agertuko litzateke.
+
+Proba multzoak 5 etxe baino ez ditu, beraz emaitzak ez dira oso egonkorrak.
